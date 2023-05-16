@@ -1,4 +1,4 @@
-<h2>Hey 👋, i am Adry <br> I am passionate </h2>
+<h2>Hey 👋, i am Adry <br> I am passionate on code & design</h2>
 
 <h3>My current stack</h3>
 <p>
